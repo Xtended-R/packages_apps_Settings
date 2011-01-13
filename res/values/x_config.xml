@@ -27,4 +27,6 @@
     <string name="config_batChargeCycle"></string>
     <bool name="config_supportBatteryHealth">true</bool>
 
+    <!-- Hostname setting -->
+    <string name="device_hostname">Device hostname</string>
 </resources>
